@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Dark",
+        "year": 2017,
+        "director": "David Ayer",
+        "duration": "117 min",
+        "genres": ["Action", "Crime", "Fantasy"],
+        "description": "Set in a world where fantasy creatures live side by side with humans. A human cop is forced to work with an Orc to find a weapon everyone is prepared to kill for.",
+        "poster": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2020/04/23/903342-netflix-dark.jpg",
+        "background": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2020/04/23/903342-netflix-dark.jpg"
+    },
+    {
+        "title": "Summer I Turned Pretty",
+        "year": 2018,
+        "director": "Roar Uthaug",
+        "duration": "125 min",
+        "genres": ["Action", "Fantasy"],
+        "description": "Lara Croft, the fiercely independent daughter of a missing adventurer, must push herself beyond her limits when she finds herself on the island where her father disappeared.",
+        "poster": "https://flixable.b-cdn.net/amazon-prime-video/large/de/the-summer-i-turned-pretty.png",
+        "background": "https://flixable.b-cdn.net/amazon-prime-video/large/de/the-summer-i-turned-pretty.png"
+    },
+    {
+        "title": "Peaky Blinders",
+        "year": 1999,
+        "director": "Lana Wachowski, Lilly Wachowski",
+        "duration": "136 min",
+        "genres": ["Action", "Sci-Fi"],
+        "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+        "poster": "https://didyouknowfacts.com/wp-content/uploads/2020/01/Untitled-1-17.jpg",
+        "background": "https://didyouknowfacts.com/wp-content/uploads/2020/01/Untitled-1-17.jpg"
+    },
+    {
+        "title": "The Haunting of the Hill House",
+        "year": 2010,
+        "director": "Christopher Nolan",
+        "duration": "148 min",
+        "genres": ["Action", "Adventure", "Sci-Fi"],
+        "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.",
+        "poster": "https://tse3.mm.bing.net/th?id=OIP.JSS0Iinr3finc_bVV_rlyQHaEK&pid=Api&P=0&h=180",
+        "background": "https://tse3.mm.bing.net/th?id=OIP.JSS0Iinr3finc_bVV_rlyQHaEK&pid=Api&P=0&h=180"
+    }
+]
